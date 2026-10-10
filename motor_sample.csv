@@ -1,0 +1,15 @@
+temperature,noise,smoke,vibration,fault
+normal,quiet,no,low,ok
+normal,normal,no,normal,ok
+high,loud,yes,high,overheating
+high,normal,yes,normal,overheating
+normal,loud,no,high,bearing_wear
+low,loud,no,high,bearing_wear
+normal,loud,no,high,bearing_wear
+high,loud,yes,high,overheating
+high,quiet,yes,low,short_circuit
+normal,quiet,no,low,ok
+normal,quiet,no,low,ok
+high,normal,yes,normal,overheating
+low,quiet,no,normal,ok
+normal,normal,yes,low,short_circuit
